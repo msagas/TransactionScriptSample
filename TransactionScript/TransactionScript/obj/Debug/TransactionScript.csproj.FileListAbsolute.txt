@@ -1,0 +1,5 @@
+C:\Code\Repos\GitUtils\TransactionScript\TransactionScript\bin\Debug\TransactionScript.dll
+C:\Code\Repos\GitUtils\TransactionScript\TransactionScript\bin\Debug\TransactionScript.pdb
+C:\Code\Repos\GitUtils\TransactionScript\TransactionScript\obj\Debug\TransactionScript.dll
+C:\Code\Repos\GitUtils\TransactionScript\TransactionScript\obj\Debug\TransactionScript.pdb
+C:\Code\Repos\GitUtils\TransactionScript\TransactionScript\obj\Debug\TransactionScript.csprojResolveAssemblyReference.cache
